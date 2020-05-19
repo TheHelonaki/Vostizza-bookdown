@@ -11,7 +11,11 @@ link-citations: true
 github-repo: TheHelonaki/Vostizza-bookdown
 
 output:
-  bookdown::gitbook: default
+  bookdown::gitbook:
+    dev: svglite
+    split_by: section
+    split_bib: true
+    number_sections: true
   bookdown::pdf_book: default
 ---
 
@@ -19,5 +23,3 @@ output:
 
 *Venetian Vostizza* is an examination of the Second Period of Venetian Domination
 (1685 - 1715) in the territory of Vostizza in the northern Peloponnesus of Greece.
-
-This is a work in progress.
