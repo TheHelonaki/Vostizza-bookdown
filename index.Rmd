@@ -14,10 +14,31 @@ github-repo: TheHelonaki/Vostizza-bookdown
 output:
   bookdown::gitbook:
     dev: svglite
+    toc_depth: 2
     split_by: section
     split_bib: true
     number_sections: true
-  bookdown::pdf_book: default
+    pandoc_args: [ "--csl", "chicago-fullnote-bibliography.csl"]
+    config:
+      toc:
+        scroll_highlight: yes
+        collapse: section
+        before: |
+          <li><a href="./"><strong>Venetian Vostizza</strong><br>by Jennifer Glaubius</a></li>
+        after: |
+          <li><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a></li>
+          <li><a href="https://bookdown.org" target="_blank">Built with Bookdown</a></li>
+      download: [pdf]
+      view: https://github.com/TheHelonaki/Vostizza_bookdown/blob/master/%s
+      search: yes
+      sharing:
+        facebook: yes
+        github: yes
+        twitter: yes
+
+  bookdown::pdf_book:
+    citation_package: none
+    pandoc_args: [ "--csl", "chicago-fullnote-bibliography.csl"]
 ---
 
 # Preface {-}
