@@ -1,0 +1,21 @@
+---
+lang: "en"
+title: "Venetian Vostizza"
+author: "Jennifer Glaubius"
+knit: "bookdown::render_book"
+site: bookdown::bookdown_site
+documentclass: book
+citation-style: chicago-fullnote-bibliography.csl
+link-citations: true
+
+github-repo: TheHelonaki/Vostizza-bookdown
+
+output:
+  bookdown::gitbook: default
+  bookdown::pdf_book: default
+---
+
+# Preface {-}
+
+*Venetian Vostizza* is an examination of the Second Period of Venetian Domination
+(1685 - 1715) in the territory of Vostizza in the northern Peloponnesus of Greece.
