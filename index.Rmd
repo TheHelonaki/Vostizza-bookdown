@@ -26,5 +26,7 @@ knitr::opts_chunk$set(echo=FALSE)
 options(knitr.graphics.auto_pdf=TRUE)
 ```
 
+**This book-in-progress was last updated on `r format (Sys.Date(), '%d %b %Y')`**
+
 *Venetian Vostizza* is an examination of the Second Period of Venetian Domination
 (1685 - 1715) in the territory of Vostizza in the northern Peloponnesus of Greece.
