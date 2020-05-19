@@ -23,7 +23,7 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo=FALSE)
-options(knitr.graphics.auto_pdf=FALSE)
+options(knitr.graphics.auto_pdf=TRUE)
 ```
 
 *Venetian Vostizza* is an examination of the Second Period of Venetian Domination
