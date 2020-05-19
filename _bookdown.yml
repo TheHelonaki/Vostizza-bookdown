@@ -1,0 +1,6 @@
+output_dir: "docs"
+book_filename: "Glaubius-VenetianVostizza"
+language:
+  label:
+    fig: "Image"
+chapter_name: "Chapter"
