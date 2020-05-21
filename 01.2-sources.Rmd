@@ -18,5 +18,8 @@ An unpublished document in the Archivio di Stato di Venezia dating to ca. 1700 l
 ### Tithes
 The amount of tithe gathered from the settlements in Vostizza from 1697 until 1700 is listed in another unpublished document in the Archivio di Stato di Venezia.^[**TODO: add ref** A.S.V. Grimani b.52/148.] The tithe seems to have been collected by entities similar to the luoghi in the cadasters, but not exactly the same since some settlements are grouped with other settlements not from the same luoghi or are listed singly without the other settlements included with them in the cadastral luoghi. It is also interesting to note that in addition to the settlements, the Bishop of Salona also paid a separate tithe to the treasury.
 
+### Duties
+An unpublished list of duties collected in Vostizza from 1697 until 1700 is in the Archivio di Stato di Venezia.^[**TODO: add ref** A.S.V. Grimani b.52/148.] Duties were collected upon beehives, pasturage, woods, and pigs. This information represents an attempt of the Venetian administration to fill the provincial treasuries.
+
 
 **TODO: add traveler's accounts**
