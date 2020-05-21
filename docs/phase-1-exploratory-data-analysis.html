@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en" xml:lang="en">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>7.1 Phase 1: Exploratory Data Analysis | Venetian Vostizza</title>
+  <meta name="description" content="7.1 Phase 1: Exploratory Data Analysis | Venetian Vostizza" />
+  <meta name="generator" content="bookdown 0.19 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="7.1 Phase 1: Exploratory Data Analysis | Venetian Vostizza" />
+  <meta property="og:type" content="book" />
+  
+  
+  
+  <meta name="github-repo" content="TheHelonaki/Vostizza-bookdown" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="7.1 Phase 1: Exploratory Data Analysis | Venetian Vostizza" />
+  
+  
+  
+
+<meta name="author" content="Jennifer Glaubius" />
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="mapping.html"/>
+<link rel="next" href="phase-2-statistical-analysis.html"/>
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./"><strong>Venetian Vostizza</strong><br>by Jennifer Glaubius</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Preface</a></li>
+<li class="chapter" data-level="1" data-path="introduction.html"><a href="introduction.html"><i class="fa fa-check"></i><b>1</b> Introduction to Venetian Vostizza</a><ul>
+<li class="chapter" data-level="1.1" data-path="history.html"><a href="history.html"><i class="fa fa-check"></i><b>1.1</b> Historical Context for Venetian Vostizza</a></li>
+<li class="chapter" data-level="1.2" data-path="sources.html"><a href="sources.html"><i class="fa fa-check"></i><b>1.2</b> Sources of Data on Venetian Vostizza</a></li>
+<li class="chapter" data-level="1.3" data-path="definitions.html"><a href="definitions.html"><i class="fa fa-check"></i><b>1.3</b> Definitions</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="cadasters.html"><a href="cadasters.html"><i class="fa fa-check"></i><b>2</b> Venetian Cadasters for Vostizza</a></li>
+<li class="chapter" data-level="3" data-path="landscape.html"><a href="landscape.html"><i class="fa fa-check"></i><b>3</b> Landscape of Vostizza</a><ul>
+<li class="chapter" data-level="3.1" data-path="present-landscape.html"><a href="present-landscape.html"><i class="fa fa-check"></i><b>3.1</b> Present-day Landscape</a></li>
+<li class="chapter" data-level="3.2" data-path="venetian-landscape.html"><a href="venetian-landscape.html"><i class="fa fa-check"></i><b>3.2</b> Landscape During the Venetian Era (1685-1715)</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="sites.html"><a href="sites.html"><i class="fa fa-check"></i><b>4</b> Sites in Venetian Vostizza</a></li>
+<li class="chapter" data-level="5" data-path="population.html"><a href="population.html"><i class="fa fa-check"></i><b>5</b> Population of Venetian Vostizza</a></li>
+<li class="chapter" data-level="6" data-path="economy.html"><a href="economy.html"><i class="fa fa-check"></i><b>6</b> Economy of Venetian Vostizza</a></li>
+<li class="chapter" data-level="7" data-path="mapping.html"><a href="mapping.html"><i class="fa fa-check"></i><b>7</b> Mapping and Analysis</a><ul>
+<li class="chapter" data-level="7.1" data-path="phase-1-exploratory-data-analysis.html"><a href="phase-1-exploratory-data-analysis.html"><i class="fa fa-check"></i><b>7.1</b> Phase 1: Exploratory Data Analysis</a></li>
+<li class="chapter" data-level="7.2" data-path="phase-2-statistical-analysis.html"><a href="phase-2-statistical-analysis.html"><i class="fa fa-check"></i><b>7.2</b> Phase 2: Statistical Analysis</a></li>
+<li class="chapter" data-level="7.3" data-path="phase-3-advanced-analysis-and-interactive-mapping.html"><a href="phase-3-advanced-analysis-and-interactive-mapping.html"><i class="fa fa-check"></i><b>7.3</b> Phase 3: Advanced Analysis and Interactive Mapping</a></li>
+</ul></li>
+<li class="chapter" data-level="8" data-path="resources.html"><a href="resources.html"><i class="fa fa-check"></i><b>8</b> Helpful Resources for this project</a></li>
+<li class="divider"></li>
+<li><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a></li>
+<li><a href="https://bookdown.org" target="_blank">Built with Bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Venetian Vostizza</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="phase-1-exploratory-data-analysis" class="section level2">
+<h2><span class="header-section-number">7.1</span> Phase 1: Exploratory Data Analysis</h2>
+<p>Originally, all mapping for this project was done using GIS, namely ArcGIS. In the first stages, exploratory data analysis was completed after data from the Venetian cadasters had been combined with their spatial locations digitized from the map of the territory. However, these spatial data could not be linked to other spatial data since the map was not properly georeferenced to real world coordinates, which was difficult owing to problems with matching up the map from 1700 with present-day locations. Most maps that were created were choropleth or included pie charts for each villa. The data at this point was within a Filemaker database with relational tables to connect data.</p>
+<div id="mapping-1" class="section level3">
+<h3><span class="header-section-number">7.1.1</span> Mapping</h3>
+<p><strong>TODO: revise section from thesis below</strong>
+<strong>TODO: incorporate footnotes</strong>
+Both modern maps and a Venetian map of Vostizza dating to 1700 were used to create the layers in the GIS. Five map sheets that contain the territory of Vostizza<a href="#fn11" class="footnote-ref" id="fnref11"><sup>11</sup></a> were combined into a single map in Photoshop, and then added to the GIS. The latitude and longitude of the composite modern map was registered with the GIS program to facilitate adding modern data in the future.
+Next, the Venetian map of the territory of Vostizza in 1700<a href="#fn12" class="footnote-ref" id="fnref12"><sup>12</sup></a> was scanned and added to the GIS. Once added, the 1700 map was put into proper spatial position through a process called “rubber sheeting.” In rubber sheeting, a map with an unknown coordinate system, such as the 1700 map, is placed on a map with known coordinates, in this case the modern map, by connecting the same points on each map. Once this process was accomplished for the Venetian map of Vostizza, the territory was approximately in the correct position (Fig. 6). As is clearly shown in Fig. 6, the Venetian map does not entirely match the modern map. This incongruity between the modern map and 1700 map is a result of mapmaking techniques of the early 18th century.<a href="#fn13" class="footnote-ref" id="fnref13"><sup>13</sup></a>
+After the Venetian map of Vostizza was positioned properly, new layers were created by digitizing features from the map. The boundaries of the territory and each villa, as well as the positions of rivers and settlements were all digitized using a method called “heads up” or “on the fly” digitizing. The two names for this type of digitizing refer to the fact that the process takes place on the computer screen, rather than using a digitizing tablet. Four layers were created using heads up digitizing. Two polygon layers, one only of the territorial boundaries of Vostizza (Fig. 7) and the other of the boundaries of the luoghi (Fig. 8) were made.68 The rivers were digitized into a polyline layer (Fig. 9) and the settlements were placed in a point layer (Fig. 10). This completed the spatial additions to the GIS project.</p>
+</div>
+<div id="database" class="section level3">
+<h3><span class="header-section-number">7.1.2</span> Database</h3>
+<p>The basic data about Vostizza in 1700 are recorded in the catastico ordinario and catastico particolare for Vostizza.69 Three databases were created from the general and detailed cadasters. Information from the catastico ordinario about each of the 34 luoghi in the territory was placed into a database named “Luoghi.” The data in the database “Luoghi” include information about number of houses, number of fruit and nut plants, and animals, and amounts of land under cultivation for each luogo (Fig. 11; Appendix 1 includes a description of all fields in the “Luoghi” database).
+A second database for each separate agricultural field called “Property,” records the owner, type of ownership (public, beneprobatum, concessione)70, and amount of land (Fig. 12; Appendix 2 includes a description of all fields in the “Property” database). The Venetians recorded the land area with more than one measurement system. Vineyards are recorded by zappade, stremma, Campi Trevisan, and Campi Paduan.71 Other fields (terreni) omit measurements in zappade. Each measurement has been converted into square meters in the database.72
+The third database – “Settlements” – corresponds to the point layer Settlements. The information in this database includes the name and designation of each settlement from the Venetian map of Vostizza, catastico ordinario, catastico particolare, and the Grimani census (Fig. 13). This database is used to illustrate the differences among the four sources in designations for settlements.</p>
+<p>69 Dokos and Panagopoulos 1993; A.S.V. Grimani b.81/17-33 and b.81/56-279.
+70 The categories of Venetian property ownership are defined in Chapter 5. The reader is referred to the Glossary for a short definition of the various Venetian terms used in this thesis.
+71 The zappade is an areal unit of measurement for vineyards used in Greece. Stremmata are also Greek units of measurement for areas of land. The Trevisan and Paduan systems of areal measurement both used basic units called tavola, but of different sizes. See Zupko 1981, for differences in measurement between cities in Italy. In practice, the Trevisan and Paduan systems were often modified according to circumstance. See Topping 1972, esp. p. 78, Forbes 2000, and Davies 2004 for interpretations of Venetian land measurement in the Morea.
+72 The size of the stremma employed in the Peloponnese during the Ottoman and Venetian periods has been a matter of controversy. See Davies (2004, pp. 113-116, esp. p. 114), who suggests that it was equivalent to 1889.37 m2 (for 625 tavole). Calculations based on the Vostizza cadastre, examined in this thesis, confirm that Venetian administrators imagined it to be equal to 1889.37 m2.</p>
+</div>
+</div>
+<div class="footnotes">
+<hr />
+<ol start="11">
+<li id="fn11"><p>These maps were created by the Hellenic Military Geographical Service. All are in the 1:50,000 m series. Aigion (022), Amygdalea (035), Chalandritsa (377), Dervenion (089), and Navpaktos (233).<a href="phase-1-exploratory-data-analysis.html#fnref11" class="footnote-back">↩</a></p></li>
+<li id="fn12"><p>This map is located in the <strong>TODO add ref/link to map in archive</strong> Kriegsarchiv of the Austrian State Archives in Vienna (B III a 121); see <span class="citation">Olga Katsiarde-Hering, <em>Venezianische Karten Als Grundlage Der Historischen Geographie Des Griechischen Siedlungsraumes (Ende 17. Und 18. Jh.)</em>, 1993</span>, p. 301.<a href="phase-1-exploratory-data-analysis.html#fnref12" class="footnote-back">↩</a></p></li>
+<li id="fn13"><p>For more information about the spatial relationship between Venetian maps ca. 1700 and modern maps see <span class="citation">M. Wagstaff and S. Chrysochoou-Stavridou, “Two Unpublished Maps of the Morea from the Second Venetian Period,” in <em>Proceedings V Conference of Peloponnesian Studies</em>, vol. 4, 1996, 289–316</span>.<a href="phase-1-exploratory-data-analysis.html#fnref13" class="footnote-back">↩</a></p></li>
+</ol>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="mapping.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="phase-2-statistical-analysis.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": true,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": "https://github.com/TheHelonaki/Vostizza_bookdown/blob/master/20-mapping-analysis.Rmd",
+"text": null
+},
+"download": ["Glaubius-VenetianVostizza.pdf"],
+"toc": {
+"collapse": "section",
+"scroll_highlight": true
+},
+"search": true
+});
+});
+</script>
+
+</body>
+
+</html>
