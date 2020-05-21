@@ -3,7 +3,7 @@
 TODO: revise text and add more info
 
 <!-- Unedited M.A. text -->
-The Venetian territory of Vostizza is located in the northern Peloponnese along the Gulf of Corinth (Fig. 1). The total land area of the Vostizza region according to Venetian surveyors is 149 square km (152,136 stremma and 349 tavole).11 The territory is bounded by the Gulf of Corinth to the north. The northern shore of the Gulf of Corinth is visible from most of the shore in the Vostizza territory.  
+The Venetian territory of Vostizza is located in the northern Peloponnese along the Gulf of Corinth (Fig. 1). The total land area of the Vostizza region according to Venetian surveyors is 149 square km (152,136 stremma and 349 tavole).^[@dokosVenetikoKtematologioTes1993, p. 6. This conversion to km2 is made under the assumption that the stremma consisted of 324 tavole, with a tavole equalling 3.02 m2. A Venetian tavole equalled 25 sq. piede (feet). A Venetian piede was 0.348 m @zupkoItalianWeightsMeasures1981, pp. xxx; 136, 283). See @daviesPylosRegionalArchaeological2004, appendix 2, pp. 113-116. The modern area of Aegiale, which is smaller than the Venetian territory of Vostizza, is 103 square kilometers in area (**TODO: fix ref** Ministère de L’Économie Nationale 1914, table D, p. vi.).] The territory is bounded by the Gulf of Corinth to the north. The northern shore of the Gulf of Corinth is visible from most of the shore in the Vostizza territory.  
 
 The primary city of the region is Aigion, named Vostizza Terra (town) in Venetian records. The perceived potential of Aigion as a harbor varies by source. According to the late 17th century traveler to the Morea, Bernard Randolph, the town of Aigion (Vostizza) did not have a port.12 Sir William Gell, writing in 1817, reported that “the anchorage is not safe with a northerly wind,” which implies that the town did have a dependable harbor.13 Colonel Leake in 1830 noted that the harbor at Aigion (Vostitza) was safer than the port at Patras, although it was very deep near the shore.14 The handbook for the British Army created in the 1940s described Aigion as the best harbor in the Gulf of Corinth.15
 
@@ -15,7 +15,7 @@ The climate in Vostizza is typically Mediterranean with hot, dry summers and wet
 
 
 <!-- Footnotes -->
-11 Dokos and Panagopoulos 1993, p. 6. This conversion to km2 is made under the assumption that the stremma consisted of 324 tavole, with a tavole equalling 3.02 m2. A Venetian tavole equalled 25 sq. piede (feet). A Venetian piede was 0.348 m (Zupko 1981, pp. xxx; 136, 283). See Davies 2004, appendix 2, pp. 113-116. The modern area of Aegiale, which is smaller than the Venetian territory of Vostizza, is 103 square kilometers in area (Ministère de L’Économie Nationale 1914, table D, p. vi.).
+11
 12 Randolph 1689, p. 3.
 13 Gell 1817, p. 7.
 14 Leake 1830, pp. 182-183.
