@@ -1,13 +1,13 @@
 ## Sources of Data on Venetian Vostizza {#sources}
 
-**TODO: add C.O. and C.P.**
 ### *Catastico Ordinatio*
 The *Catastico Ordinario che Segue il Disegno del Territorio di Vostizza fatto d’Ordine* was compiled by Gritti and presented to the Venetian Senate in 1700.^[ **TODO add ref** A.S.V. Grimani b.81/17-3] Thirty-five villas were listed with their resources. Potamia di Calavrita, which belonged to the territory of Calavrita to the south of Vostizza, was also included in the catastico ordinario, so only 34 of the villas pertain to Vostizza. The records in the catastico ordinario include a short description of where the villa was located, followed by the amounts of cultivable and uncultivable land. The numbers of churches, houses, olive presses, felt mills, springs, and mills were given, followed by the number of plants, including olive and mulberry trees, and animals. Finally the number of families and religious personnel living in the villa were listed.
 
 ### *Catastico Particolare*
 The *Catastico Particolare d’Ogni Villa e Luogo del Territorio di Vostizza* was compiled by Gritti and presented to the Venetian Senate in 1700, like the catastico ordinario.^[A.S.V. Grimani b.81/56-279.] Only the 34 villas that were part of the territory of Vostizza are included in the catastico particolare. The catastico particolare includes all of the information in the catastico ordinario for each villa. The catastico particolare also includes a listing of each piece of property in the villa and a map or maps that show the location of each piece of property. The listing of property includes an identification number, the name of the owner, the type of ownership rights (i.e., beneprobatum, concessione, public), and the amount of land.
 
-**TODO: add territory map in Vienna Kriegsarchiv**
+### Vostizza Territory Map
+The map of the territory of Vostizza (“Disegno del Territorio di Vostiza”) dates to 1700 and was created by Francesco Vandeyk for Francesco Grimani, who was the Proveditor General of the Army in the Morea.^[**TODO: add ref** Kriegsarchiv B III a 121. Vandeyk also drew other maps and plans of cities and fortifications in the Morea, along with F. Beler, F. Vasieur, Bortolo Carmoy, and Nicolò Franco (see @andrewsCastlesMorea2006, appendix C, pp. 242-256; @pinzelliForteressesMoreeProjets2000 also discusses the Venetian plans for reconstructing fortresses in the Morea).] It was drawn at a scale of approximately 1:26,000 meters. The map is now located in the Austrian State Archives. The map includes boundaries for the villas in the territory, as well as the location and names of settlements and rivers.
 
 **TODO: add census in Panagiotopolous**
 
