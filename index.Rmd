@@ -8,6 +8,9 @@ documentclass: book
 bibliography: Vostizza.bib
 citation-style: chicago-fullnote-bibliography.csl
 link-citations: true
+mainfont: Arial
+monofont: "Courier New"
+monofontoptions: "Scale=0.7"
 
 github-repo: TheHelonaki/Vostizza-bookdown
 
@@ -39,6 +42,8 @@ output:
   bookdown::pdf_book:
     citation_package: none
     pandoc_args: [ "--csl", "chicago-fullnote-bibliography.csl"]
+    latex_engine: xelatex
+    toc_depth: 2
 ---
 
 # Preface {-}
