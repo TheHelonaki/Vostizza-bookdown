@@ -35,3 +35,4 @@ The difficulty with georeferencing the Venetian map to real-world coordinates wa
 
 ## Phase 3: Advanced Analysis and Interactive Mapping
 The current phase of mapping and analysis is the most ambitious yet. Planned analyses include least-cost path analysis between locations to analyze travel between villas, clustering analysis on the villas to look for patterns, and creation of interactive maps and story maps using leaflet.js.
+TODO: add info about getting data from database into MongoDB using Mongoose
