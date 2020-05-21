@@ -1,6 +1,8 @@
 ## Sources of Data on Venetian Vostizza {#sources}
 
 **TODO: add C.O. and C.P.**
+### Catastico Ordinatio
+The *Catastico Ordinario che Segue il Disegno del Territorio di Vostizza fatto d’Ordine* was compiled by Gritti and presented to the Venetian Senate in 1700.^[ **TODO add ref** A.S.V. Grimani b.81/17-3] Thirty-five villas were listed with their resources. Potamia di Calavrita, which belonged to the territory of Calavrita to the south of Vostizza, was also included in the catastico ordinario, so only 34 of the villas pertain to Vostizza. The records in the catastico ordinario include a short description of where the villa was located, followed by the amounts of cultivable and uncultivable land. The numbers of churches, houses, olive presses, felt mills, springs, and mills were given, followed by the number of plants, including olive and mulberry trees, and animals. Finally the number of families and religious personnel living in the villa were listed. 
 
 **TODO: add territory map in Vienna Kriegsarchiv**
 
