@@ -9,6 +9,14 @@ The *Catastico Particolare d’Ogni Villa e Luogo del Territorio di Vostizza* wa
 ### Vostizza Territory Map
 The map of the territory of Vostizza (“Disegno del Territorio di Vostiza”) dates to 1700 and was created by Francesco Vandeyk for Francesco Grimani, who was the Proveditor General of the Army in the Morea.^[**TODO: add ref** Kriegsarchiv B III a 121. Vandeyk also drew other maps and plans of cities and fortifications in the Morea, along with F. Beler, F. Vasieur, Bortolo Carmoy, and Nicolò Franco (see @andrewsCastlesMorea2006, appendix C, pp. 242-256; @pinzelliForteressesMoreeProjets2000 also discusses the Venetian plans for reconstructing fortresses in the Morea).] It was drawn at a scale of approximately 1:26,000 meters. The map is now located in the Austrian State Archives. The map includes boundaries for the villas in the territory, as well as the location and names of settlements and rivers.
 
-**TODO: add census in Panagiotopolous**
+### Grimani Census
+The administrator Grimani compiled a population count for all the territories in the Morea.^[**TODO: add ref** A.S.V. Grimani b.54/158; @panagiotopoylosPlithysmosKaiOikismoi1987b, p. 279.] The census is divided into provinces, then territories, and finally settlements in each territory. The census listed the number of families, as well as the number of people. The census dates to 1700, like the two cadasters, but the names of settlements differ greatly from those listed in the cadasters.
+
+### Villa Possessions
+An unpublished document in the Archivio di Stato di Venezia dating to ca. 1700 lists 27 settlements in Vostizza (villas in the record) and their possessions.^[**TODO: add ref** A.S.V. Grimani b.53/155.] Possessions listed include areas of vineyards in zappade and other land in stremmata, numbers of olive and fruit trees, and numbers of houses, mills, felt factories, and churches. The incompleteness of the list - for example only four churches are listed compared to 84 intact churches in the catastico ordinario - limits the usefulness of this source. The primary data taken from this list of villa possessions are the settlement names which are compared to settlement names in the two cadasters and the Grimani census.
+
+### Tithes
+The amount of tithe gathered from the settlements in Vostizza from 1697 until 1700 is listed in another unpublished document in the Archivio di Stato di Venezia.^[**TODO: add ref** A.S.V. Grimani b.52/148.] The tithe seems to have been collected by entities similar to the luoghi in the cadasters, but not exactly the same since some settlements are grouped with other settlements not from the same luoghi or are listed singly without the other settlements included with them in the cadastral luoghi. It is also interesting to note that in addition to the settlements, the Bishop of Salona also paid a separate tithe to the treasury.
+
 
 **TODO: add traveler's accounts**
