@@ -1,8 +1,11 @@
 ## Sources of Data on Venetian Vostizza {#sources}
 
 **TODO: add C.O. and C.P.**
-### Catastico Ordinatio
-The *Catastico Ordinario che Segue il Disegno del Territorio di Vostizza fatto d’Ordine* was compiled by Gritti and presented to the Venetian Senate in 1700.^[ **TODO add ref** A.S.V. Grimani b.81/17-3] Thirty-five villas were listed with their resources. Potamia di Calavrita, which belonged to the territory of Calavrita to the south of Vostizza, was also included in the catastico ordinario, so only 34 of the villas pertain to Vostizza. The records in the catastico ordinario include a short description of where the villa was located, followed by the amounts of cultivable and uncultivable land. The numbers of churches, houses, olive presses, felt mills, springs, and mills were given, followed by the number of plants, including olive and mulberry trees, and animals. Finally the number of families and religious personnel living in the villa were listed. 
+### *Catastico Ordinatio*
+The *Catastico Ordinario che Segue il Disegno del Territorio di Vostizza fatto d’Ordine* was compiled by Gritti and presented to the Venetian Senate in 1700.^[ **TODO add ref** A.S.V. Grimani b.81/17-3] Thirty-five villas were listed with their resources. Potamia di Calavrita, which belonged to the territory of Calavrita to the south of Vostizza, was also included in the catastico ordinario, so only 34 of the villas pertain to Vostizza. The records in the catastico ordinario include a short description of where the villa was located, followed by the amounts of cultivable and uncultivable land. The numbers of churches, houses, olive presses, felt mills, springs, and mills were given, followed by the number of plants, including olive and mulberry trees, and animals. Finally the number of families and religious personnel living in the villa were listed.
+
+### *Catastico Particolare*
+The *Catastico Particolare d’Ogni Villa e Luogo del Territorio di Vostizza* was compiled by Gritti and presented to the Venetian Senate in 1700, like the catastico ordinario.^[A.S.V. Grimani b.81/56-279.] Only the 34 villas that were part of the territory of Vostizza are included in the catastico particolare. The catastico particolare includes all of the information in the catastico ordinario for each villa. The catastico particolare also includes a listing of each piece of property in the villa and a map or maps that show the location of each piece of property. The listing of property includes an identification number, the name of the owner, the type of ownership rights (i.e., beneprobatum, concessione, public), and the amount of land.
 
 **TODO: add territory map in Vienna Kriegsarchiv**
 
