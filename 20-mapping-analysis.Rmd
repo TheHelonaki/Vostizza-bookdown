@@ -1,0 +1,9 @@
+# Mapping and Analysis {#mapping}
+
+TODO: revise and expand
+
+Originally, all mapping for this project was done using GIS, namely ArcGIS. In the first stages, exploratory data analysis was completed after data from the Venetian cadasters had been combined with their spatial locations digitized from the map of the territory. However, these spatial data could not be linked to other spatial data since the map was not properly georeferenced to real world coordinates, which was difficult owing to problems with matching up the map from 1700 with present-day locations. Most maps that were created were choropleth or included pie charts for each villa.
+
+The difficulty with georeferencing the Venetian map to real-world coordinates was overcome in the next phase of the mapping using Erdas Imagine. Using trial and error of matching locations on the coastline and settlement locations in the interior with present-day villages, a reasonable georectification was achieved. From this georeferencing, the villas, rivers, and settlements were again digitized. Although other sources of spatial data could now be added to the analysis, no further analysis was completed along this vein. Instead, better choropleth maps (without any pie charts) were created that displayed the results of the contingency table analysis.
+
+The current phase of mapping and analysis is the most ambitious yet. Planned analyses include least-cost path analysis between locations to analyze travel between villas, clustering analysis on the villas to look for patterns, and creation of interactive maps and story maps using leaflet.js.
