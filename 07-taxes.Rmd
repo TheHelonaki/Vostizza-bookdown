@@ -1,3 +1,20 @@
 #Taxation in Venetian Vostizza {#taxes}
 
 **TODO: add text**
+
+## Taxes and Duties Collected by the Venetian Administration
+**TODO: edit thesis text**
+The administration of the territories of the Morea, including Vostizza, was organized to facilitate raising money for the Venetian treasury through taxation. The documents that give us information about population, village possessions, and agricultural property of individuals were all composed for purposes of taxation. In this final section of Chapter 4, the various ways that Venice sought to raise money in Vostizza for the provincial treasury in Patras are described. These include tithes, duties, and taxes on land.
+TITHES
+Tithes were taken as taxes until the detailed cadasters of the territories in the Morea were constructed. The amounts of tithe collected from the luoghi in Vostizza from 1697 until 1700 are maintained in the Grimani Archive.117 Those records listed for each year the names of settlements, the amount collected in tithe the previous year, and the amount bid for the right to collect tithes in the early summer of the current year.118 The amount of the bid would then be collected from the settlement (or “tax-farm”) and paid to the treasury in two installments. Thirty percent of the amount collected from each village was to be paid in kind, particularly in grain, in order to ensure that sufficient amounts of food were on hand to provision the Venetian fleet. The amount of the tithe to be paid was based on the likely value of the harvest of all agricultural products, including fruits, cotton, oil, wine, and honey.
+LAND TAXES
+The catastico particolare for Vostizza was created to enable a system of direct taxation based on the value of property owned by individuals. This system was based on the terraferma method of taxation that was known as decima. The decima (“tenth”) was  tax based on the amount of land owned by an individual.119 This system of taxation was meant to replace the stop-gap method of collecting a tithe on agricultural produce, as soon as the records of property became available. Except for the territories of Vostizza and Romania, it was not possible to put the decime system into use, because detailed land surveys were not completed.120
+DUTIES
+Four duties were imposed on Vostizza during the Venetian period of administration – taxation on beehives (alveari), on pasture (pascolo), and on pigs (porcini), and timber (legnome). The amounts collected for each tax or duty in Vostizza were recorded annually.121 Only values for the years 1697 through 1700, from the Grimani Archives, are reported here (Fig. 28). In other territories duties were also collected for the use of mills and olive-presses, but these had not been assessed in Vostizza by 1700.122 The recording of mills and the one olive-press in the catastico particolare for Vostizza probably enabled the collection of duties on produce from these industrial structures, and the same was possibly true for felt mills (folladori da rasse). The agricultural nature of the duties that were collected reflects the largely rural nature of Vostizza. As noted above, only the town of Vostizza itself was large enough to be classified as a terra.
+
+
+117 See Chapter 3, Tithes.
+118 Davies 1996, p. 82 for the details of how tithe farming operated.
+119 Davies 1996, p. 82.
+120 The Romania land survey dates to 1705 (Davies 1996, pp. 87-88). 121 A.S.V. Grimani b.52/148.
+122 Davies 1996, pp. 119-147, esp. p. 123.
