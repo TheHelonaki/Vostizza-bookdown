@@ -8,16 +8,6 @@
 
 
 
-#### Villas and Settlements in Vostizza
-**TODO: rewrite to change luogo and luogi to villa(s)**
-The basic unit of administration recorded in the catastico ordinario and catastico particolare for Vostizza was an entity that I have called a luogo.89 Within each luogo were one or more settlements. Thirty-four luoghi are recorded in the catastico particolare of Vostizza. The luoghi are listed by number90 and name in Fig. 14.
-The analysis of social and economic conditions in Vostizza (Chapters 5 and 6) uses the luogo as the basic unit. The luogo is the best unit for analyses, because information about resources and land parcels for individual settlements is not always given in the documents.91 For example, all agricultural land is listed under the thirty-four luoghi in the catastico particolare.
-The way in which luoghi are listed in the catastico ordinario, the catastico particolare, and the territorial map of Vostizza, which all date to 1700, is not the same as in administrative records dating to 1697 or 1698. Inconsistencies between sources of data shed light on how the Venetians administered Vostizza and how their administrative practices evolved. The sources that relate information about administrative practices are described first. Then the settlements, number of families, number of buildings, and religious facilities – all of which may have played a part in how the structure of luoghi was created – are recounted for each of the thirty-four luoghi in Vostizza. Finally, patterns of settlement by immigrants are examined.
-
-
-89 See n. 68.
-90 The number is one that I assigned for use with the GIS project. My order follows that of the order of the luoghi in the catastico ordinario.
-91 For some settlements resources are listed separately, although property was listed for the entire luogo.
 
 #### Sources for Venetian Administration
 **TODO: edit to change luogo to villa**
